@@ -1,0 +1,4 @@
+Línea 1 del documento 4
+Línea 2 del documento 4
+Línea 3 del documento 4
+Línea 4 del documento 4
